@@ -1,0 +1,10 @@
+BackgroundOption - Controla se o site usará cor sólida ou imagem para fundo do site
+Valores: Caractere. S para cor sólida, I para imagem
+
+BackgroundImageName - Nome da imagem utilizada no fundo do site
+
+BackgroudColorHex - Hexadecimal referente a cor de fundo do site
+Valor: String contendo hexadecimal, iniciando com #
+
+FontOption - Fonte selecionada pelo usuário
+Valor: String contendo o nome da fonte selecionada
